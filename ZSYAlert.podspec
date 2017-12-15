@@ -3,7 +3,7 @@
 Pod::Spec.new do |s|
 
  s.name         = "ZSYAlert"
-    s.version      = "1.0.2"
+    s.version      = "1.0.3"
     s.ios.deployment_target = '7.0'
     s.summary      = "A delightful pop-up frame framework."
     s.homepage     = "https://github.com/zhang4yu2009/ZSYAlert"

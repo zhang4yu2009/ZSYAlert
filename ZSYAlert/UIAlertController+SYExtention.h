@@ -1,7 +1,7 @@
 //
 //  UIAlertController+SYExtention.h
 //  2017-8-7
-//  UIAlertController弹出框
+//  UIAlertController弹出框  2017版
 //  Created by 张士玉 on 17/8/7.
 //  Copyright © 2017年 ZSY. All rights reserved.
 //
